@@ -1,0 +1,2 @@
+# SuryaJS
+javascript practice
